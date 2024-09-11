@@ -1,6 +1,4 @@
-Here’s a draft of a README for your **Lane Detection** project:
 
----
 
 # Lane Detection 🛣️
 
