@@ -24,7 +24,7 @@ This project demonstrates a lane detection system using video footage and the Op
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/lane-detection.git
+   git clone https://github.com/xgagandeep/lane-detection.git
    cd lane-detection
    ```
 
